@@ -1,0 +1,14 @@
+C:\Users\Mexii\source\repos\eightballs\eightballs\bin\Debug\netcoreapp3.1\eightballs.exe
+C:\Users\Mexii\source\repos\eightballs\eightballs\bin\Debug\netcoreapp3.1\eightballs.deps.json
+C:\Users\Mexii\source\repos\eightballs\eightballs\bin\Debug\netcoreapp3.1\eightballs.runtimeconfig.json
+C:\Users\Mexii\source\repos\eightballs\eightballs\bin\Debug\netcoreapp3.1\eightballs.runtimeconfig.dev.json
+C:\Users\Mexii\source\repos\eightballs\eightballs\bin\Debug\netcoreapp3.1\eightballs.dll
+C:\Users\Mexii\source\repos\eightballs\eightballs\bin\Debug\netcoreapp3.1\eightballs.pdb
+C:\Users\Mexii\source\repos\eightballs\eightballs\obj\Debug\netcoreapp3.1\eightballs.csproj.AssemblyReference.cache
+C:\Users\Mexii\source\repos\eightballs\eightballs\obj\Debug\netcoreapp3.1\eightballs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mexii\source\repos\eightballs\eightballs\obj\Debug\netcoreapp3.1\eightballs.AssemblyInfoInputs.cache
+C:\Users\Mexii\source\repos\eightballs\eightballs\obj\Debug\netcoreapp3.1\eightballs.AssemblyInfo.cs
+C:\Users\Mexii\source\repos\eightballs\eightballs\obj\Debug\netcoreapp3.1\eightballs.csproj.CoreCompileInputs.cache
+C:\Users\Mexii\source\repos\eightballs\eightballs\obj\Debug\netcoreapp3.1\eightballs.dll
+C:\Users\Mexii\source\repos\eightballs\eightballs\obj\Debug\netcoreapp3.1\eightballs.pdb
+C:\Users\Mexii\source\repos\eightballs\eightballs\obj\Debug\netcoreapp3.1\eightballs.genruntimeconfig.cache
